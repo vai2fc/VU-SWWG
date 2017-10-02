@@ -1,2 +1,4 @@
 header,predicate,type,value,attribute,subject_id
-,,plain,,,$root
+DisplayName,rdfs:label,,plain,,,$root
+DisplayDate,dcterms:description,plain,,,$root
+Nationality,rdfs:label,plain,,,$root
